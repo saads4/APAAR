@@ -1,0 +1,12 @@
+fastapi==0.162.0
+uvicorn[standard]==0.54.0
+SQLAlchemy==2.1.6
+alembic==1.20.1
+psycopg2-binary==2.9.13
+PyJWT==2.15.1
+cryptography==50.0.2
+rapidfuzz==3.14.6
+scikit-learn==1.9.1
+networkx==3.7
+numpy==2.5.4
+python-multipart==0.0.32
